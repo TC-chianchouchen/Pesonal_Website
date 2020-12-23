@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chian-Chou Chen (T.C.)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Academia Sinica Institute of Astronomy and Astrophysics
+  url: https://www.asiaa.sinica.edu.tw/index.php
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cosmology, large-scale structures, and galaxy formation and evolution.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Observational astrophysics focusing on galaxy formation and evolution
+- Discovery and multi-wavelengths characteristics of the dusty star-forming galaxies
+- Cosmology probed by large-scale structures
+- OIR/Far-infrared/(sub-)millimeter observational astronomy
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Astronomy
+    institution: University of Hawaii at Manoa
+    year: 2013
+  - course: M.Sc. in Astronomy
+    institution: University of Hawaii at Manoa
+    year: 2010
+  - course: B.Sc. in Physics
+    institution: National Taiwan University
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,18 +44,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an astrophysicist currently based in Taipei, at the Institute of Astronomy and Astrophysics, Academia Sinica (ASIAA). Before joining ASIAA I was a research fellow at the European Southern Observatory (ESO) in München, Germany. I also spent a few years in Durham, UK, working on projects related to the ERC-funded DustyGal program led by Ian Smail. I completed my PhD in Hawaii with Len Cowie and Amy Barger. My main research interests are focused on discovering high-redshift dusty galaxies, or submillimeter galaxies (SMGs), through submillimeter surveys, and using multi-wavelength data to understand their role under the framework of galaxy formation and evolution.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I pioneer the SCUBA-2 extragalactic surveys during my PhD and have been heavily involved in various legacy surveys ever since. In total these projects have been awarded over 2000 hrs under the best weather conditions, including ~300 hrs on those with myself as PI. Starting 2020 I am leading a SCUBA-2 large program - A Well-deep EAO Survey Observing Most of the EBL (AWESOME). I also dedicate my time on follow-up observations using SMA, ALMA, VLT, NOEMA, and HST.   
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
