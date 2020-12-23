@@ -49,7 +49,7 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-link: https://ui.adsabs.harvard.edu/#/public-libraries/-L2el06BTsutBk7UJV3W9w
+  link: https://ui.adsabs.harvard.edu/#/public-libraries/-L2el06BTsutBk7UJV3W9w
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
