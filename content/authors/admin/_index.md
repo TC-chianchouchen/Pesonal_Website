@@ -18,10 +18,9 @@ bio: My research interests include cosmology, large-scale structures, and galaxy
 
 # Interests to show in About widget
 interests:
-- Observational astrophysics focusing on galaxy formation and evolution
-- Discovery and multi-wavelengths characteristics of the dusty star-forming galaxies
-- Cosmology probed by large-scale structures
-- OIR/Far-infrared/(sub-)millimeter observational astronomy
+- galaxy formation and evolution
+- dusty star-forming galaxies
+- large-scale structures
 
 # Education to show in About widget
 education:
@@ -47,9 +46,10 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+link: https://ui.adsabs.harvard.edu/#/public-libraries/-L2el06BTsutBk7UJV3W9w
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -71,8 +71,9 @@ email: ""
 highlight_name: false
 ---
 
-I am an astrophysicist currently based in Taipei, at the Institute of Astronomy and Astrophysics, Academia Sinica (ASIAA). Before joining ASIAA I was a research fellow at the European Southern Observatory (ESO) in München, Germany. I also spent a few years in Durham, UK, working on projects related to the ERC-funded DustyGal program led by Ian Smail. I completed my PhD in Hawaii with Len Cowie and Amy Barger. My main research interests are focused on discovering high-redshift dusty galaxies, or submillimeter galaxies (SMGs), through submillimeter surveys, and using multi-wavelength data to understand their role under the framework of galaxy formation and evolution.
+I am an astrophysicist currently based in Taipei, at the [Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw/index.php), [Academia Sinica](https://www.sinica.edu.tw/en) (ASIAA). Before joining ASIAA I was a research fellow at the [European Southern Observatory]https://www.eso.org/public/ (ESO) in München, Germany. I also spent a few years in Durham, UK, working on projects related to the ERC-funded [DustyGal](http://www.astro.dur.ac.uk/DustyGal/) program. My main research interests are focused on discovering high-redshift dusty galaxies, or submillimeter galaxies (SMGs), through submillimeter surveys, and using multi-wavelength data to understand their role under the framework of galaxy formation and evolution.
 
-I pioneer the SCUBA-2 extragalactic surveys during my PhD and have been heavily involved in various legacy surveys ever since. In total these projects have been awarded over 2000 hrs under the best weather conditions, including ~300 hrs on those with myself as PI. Starting 2020 I am leading a SCUBA-2 large program - A Well-deep EAO Survey Observing Most of the EBL (AWESOME). I also dedicate my time on follow-up observations using SMA, ALMA, VLT, NOEMA, and HST.   
+I pioneer the SCUBA-2 extragalactic surveys during my PhD and have been heavily involved in various legacy surveys ever since. Starting 2020 I am leading a SCUBA-2 large program - [A Well-deep EAO Survey Observing Most of the EBL](https://www.eaobservatory.org/jcmt/science/large-programs/awesome/) (AWESOME).   
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
