@@ -69,6 +69,9 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 ---
 
 I am an astrophysicist currently based in Taipei, at the [Institute of Astronomy and Astrophysics](https://www.asiaa.sinica.edu.tw/index.php), [Academia Sinica](https://www.sinica.edu.tw/en) (ASIAA). Before joining ASIAA I was a research fellow at the [European Southern Observatory](https://www.eso.org/public/) (ESO) in München, Germany. I also spent a few years in Durham, UK, working on projects related to the ERC-funded [DustyGal](http://www.astro.dur.ac.uk/DustyGal/) program. My main research interests are focused on discovering high-redshift dusty galaxies, or submillimeter galaxies (SMGs), through submillimeter surveys, and using multi-wavelength data to understand their role under the framework of galaxy formation and evolution.
@@ -76,4 +79,3 @@ I am an astrophysicist currently based in Taipei, at the [Institute of Astronomy
 I pioneer the SCUBA-2 extragalactic surveys during my PhD and have been heavily involved in various legacy surveys ever since. Starting 2020 I am leading a SCUBA-2 large program - [A Well-deep EAO Survey Observing Most of the EBL](https://www.eaobservatory.org/jcmt/science/large-programs/awesome/) (AWESOME).   
 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
