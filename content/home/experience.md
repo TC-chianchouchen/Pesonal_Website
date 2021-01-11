@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: "Jan 2, 2006"
+date_format: 'January 2, 2006'
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -26,7 +26,7 @@ experience:
     company: ASIAA
     company_url: ''
     location: Taipei, Taiwan
-    date_start: '2019'
+    date_start: 'October 1, 2019'
     date_end: ''
     # description: |2-
     #    Responsibilities include:
@@ -39,15 +39,15 @@ experience:
     company: European Southern Observatory
     company_url: ''
     location: Munich, Germany
-    date_start: '2016'
-    date_end: '2019'
+    date_start: 'October 1, 2016'
+    date_end: 'September 30, 2019'
     # description: Taught electronic engineering and researched semiconductor physics.
 
   - title: ERC Postdoctoral Research Associate
     company: Durham University
     company_url: ''
     location: Durham, UK
-    date_start: '2013'
-    date_end: '2016'
+    date_start: 'October 1, 2013'
+    date_end: 'September 30, 2016'
 
 ---
