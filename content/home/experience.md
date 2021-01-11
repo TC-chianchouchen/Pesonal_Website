@@ -26,7 +26,7 @@ experience:
     company: ASIAA
     company_url: ''
     location: Taipei, Taiwan
-    date_start: "2019"
+    date_start: 'Oct 2019'
     date_end: ''
     # description: |2-
     #    Responsibilities include:
@@ -39,15 +39,15 @@ experience:
     company: European Southern Observatory
     company_url: ''
     location: Munich, Germany
-    date_start: "2016"
-    date_end: "2019"
+    date_start: 'Oct 2016'
+    date_end: 'Sep 2019'
     # description: Taught electronic engineering and researched semiconductor physics.
 
   - title: ERC Postdoctoral Research Associate
     company: Durham University
     company_url: ''
     location: Durham, UK
-    date_start: "2013"
-    date_end: "2016"
+    date_start: 'Oct 2013'
+    date_end: 'Sep 2016'
 
 ---
