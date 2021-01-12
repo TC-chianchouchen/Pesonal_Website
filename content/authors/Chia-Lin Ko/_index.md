@@ -13,6 +13,10 @@ organizations:
 - name: Academia Sinica Institute of Astronomy and Astrophysics
   url: https://www.asiaa.sinica.edu.tw/index.php
 
+# Interests to show in About widget
+interests:
+- Infrared-radio correlation (IRRC)
+
 # User group
 user_groups: ["Researchers"]
 ---
