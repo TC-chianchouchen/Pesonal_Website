@@ -24,6 +24,7 @@ interests:
 - galaxy formation and evolution
 - dusty star-forming galaxies
 - large-scale structures
+- EBL
 
 # Education to show in About widget
 education:
