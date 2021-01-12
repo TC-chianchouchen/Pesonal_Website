@@ -11,3 +11,6 @@ role: Research Assistant
 organizations:
 - name: Academia Sinica Institute of Astronomy and Astrophysics
   url: https://www.asiaa.sinica.edu.tw/index.php
+
+# User group
+user_groups: ["Researchers"]
