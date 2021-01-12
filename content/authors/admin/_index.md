@@ -13,6 +13,9 @@ organizations:
 - name: Academia Sinica Institute of Astronomy and Astrophysics
   url: https://www.asiaa.sinica.edu.tw/index.php
 
+# User group
+user_groups: ["Group Leader"]
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cosmology, large-scale structures, and galaxy formation and evolution.
 
