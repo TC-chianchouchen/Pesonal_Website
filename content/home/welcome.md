@@ -20,12 +20,12 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   background:
-    image: headers/bubbles-wide.jpg
-    image_darken: 0.3
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: true
+#    image: headers/bubbles-wide.jpg
+#    image_darken: 0.3
+#    image_parallax: true
+#    image_position: center
+#    image_size: cover
+#    text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 
