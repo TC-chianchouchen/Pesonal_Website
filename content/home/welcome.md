@@ -13,12 +13,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Welcome
+title: TC Research Group
 subtitle:
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 #  background:
 #    image: headers/bubbles-wide.jpg
 #    image_darken: 0.6
@@ -33,4 +33,4 @@ design:
 
 ---
 
-**Welcome to the TC research group.**
+The TC research group aims to discover high-redshift dusty galaxies, or submillimeter galaxies (SMGs), through submillimeter surveys, and using multi-wavelength data to understand their role under the framework of galaxy formation and evolution.
