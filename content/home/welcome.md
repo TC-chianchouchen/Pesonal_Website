@@ -18,7 +18,7 @@ subtitle:
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
 #  background:
 #    image: headers/bubbles-wide.jpg
 #    image_darken: 0.6
