@@ -33,4 +33,4 @@ design:
 
 ---
 
-Welcome to the TC research group.
+**Welcome to the TC research group.**
