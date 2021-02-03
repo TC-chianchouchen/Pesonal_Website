@@ -13,7 +13,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: TC Research Group
+title: **TC Research Group**
 subtitle:
 
 design:
