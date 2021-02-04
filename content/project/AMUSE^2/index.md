@@ -4,25 +4,25 @@ summary: A MUltiwavelength Study of ELAN environments
 tags:
 - SCUBA-2
 - ALMA 
-- ELAN
+- OIR
 date: "2018-present"
 
 # Optional external URL for project (replaces project detail page).
-#external_link: "https://www.eaobservatory.org/jcmt/science/large-programs/awesome/"
+# external_link: "https://www.eaobservatory.org/jcmt/science/large-programs/awesome/"
 
 image:
 #  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-#links:
-#- icon: twitter
+# links:
+# - icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-#url_code: ""
-#url_pdf: ""
-#url_slides: ""
-#url_video: ""
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
