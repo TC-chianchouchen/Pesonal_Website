@@ -34,7 +34,7 @@ abstract: In the hierarchical model of structure formation, giant elliptical gal
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [SCUBA-2]
 
 # Display this page in the Featured widget?
 featured: false
@@ -45,13 +45,13 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.202A/abstract'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
