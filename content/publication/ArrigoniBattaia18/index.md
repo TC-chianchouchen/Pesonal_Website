@@ -17,7 +17,7 @@ authors:
 doi: "10.1051/0004-6361/201834195"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-12"
+publishDate: "2018-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
