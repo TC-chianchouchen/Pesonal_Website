@@ -6,7 +6,7 @@ tags:
 date: "2020-present"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.eaobservatory.org/jcmt/science/large-programs/awesome/"
+# external_link: "https://www.eaobservatory.org/jcmt/science/large-programs/awesome/"
 
 image:
 #  caption: Photo by rawpixel on Unsplash
