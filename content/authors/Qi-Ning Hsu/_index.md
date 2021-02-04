@@ -20,4 +20,9 @@ interests:
 
 # User group
 user_groups: ["Students"]
+
+#  Projects
+projects:
+- AWESOME
+
 ---
