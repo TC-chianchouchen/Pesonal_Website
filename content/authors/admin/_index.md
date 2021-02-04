@@ -16,6 +16,12 @@ organizations:
 # User group
 user_groups: ["Group Leader"]
 
+# Projects
+projects:
+- AWESOME
+- RAGERS
+- AMUSE^2
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cosmology, large-scale structures, and galaxy formation and evolution.
 
