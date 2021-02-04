@@ -1,10 +1,9 @@
 ---
 title: "Overdensity of submillimeter galaxies around the z ≃ 2.3 MAMMOTH-1 nebula"
 authors:
-- F. Arrigoni Battaia
 - admin
 # author_notes:
-# - "Equal contribution"
+- "Lead author"
 # - "Equal contribution"
 # date: "2015-09-01T00:00:00Z"
 doi: "10.1051/0004-6361/201834195"
@@ -19,7 +18,7 @@ doi: "10.1051/0004-6361/201834195"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Astronomy & Astrophysics"
+publication: "*Astronomy & Astrophysics*"
 publication_short: "A&A"
 
 abstract: 
@@ -49,13 +48,13 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://arxiv.org/abs/1810.10140v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -69,7 +68,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [AMUSE^2]
+projects: `AMUSE^2`
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -78,13 +77,3 @@ projects: [AMUSE^2]
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
