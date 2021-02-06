@@ -1,36 +1,23 @@
 ---
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
 
-# An instance of the Blank widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: blank
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 15
-
-title: Welcome
-subtitle:
-
+widget: hero  # See https://wowchemy.com/docs/page-builder/
+headless: true  # This file represents a page section.
+weight: 10  # Order that this section will appear.
+title: "TC Research Group"
+subtitle: ""
+hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  background:
-#    image: headers/bubbles-wide.jpg
-#    image_darken: 0.3
-#    image_parallax: true
-#    image_position: center
-#    image_size: cover
-#    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+advanced:
+  css_style:
+  css_class:
+---
 
-# ... Put Your Section Options Here (title etc.) ...
-
+The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 ---
 
 Our group is interested in observational galaxy formation and cosmology, currently focusing on a comprehensively study of the origin of the submillimeter extragalactic background light (EBL), including both the higher-precision measurements of the EBL itself as well as detailed investigations regarding the physical nature of the emitting sources. 
