@@ -17,5 +17,5 @@ advanced:
   css_class:
 ---
 
-Our group is interested in observational galaxy formation and cosmology, currently focusing on a comprehensively study of the origin of the submillimeter extragalactic background light (EBL), including both the higher-precision measurements of the EBL itself as well as detailed investigations regarding the physical nature of the emitting sources. 
+Our group is currently interested in a comprehensively study about the origin of the submillimeter extragalactic background light (EBL), including both the higher-precision measurements of the EBL itself as well as detailed investigations regarding the physical nature of the emitting sources. 
 
