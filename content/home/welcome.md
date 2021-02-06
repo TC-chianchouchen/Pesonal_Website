@@ -17,7 +17,7 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Our group is interested in observational galaxy formation and cosmology, currently focusing on a comprehensively study of the origin of the submillimeter extragalactic background light (EBL), including both the higher-precision measurements of the EBL itself as well as detailed investigations regarding the physical nature of the emitting sources. 
+
 ---
 
-Our group is interested in observational galaxy formation and cosmology, currently focusing on a comprehensively study of the origin of the submillimeter extragalactic background light (EBL), including both the higher-precision measurements of the EBL itself as well as detailed investigations regarding the physical nature of the emitting sources. 
