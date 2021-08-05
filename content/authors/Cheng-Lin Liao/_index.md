@@ -15,7 +15,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Interstellar medium of dusty star-forming galaxies
+- Extragalactic Interstellar Medium
 
 # User group
 user_groups: ["Students"]
