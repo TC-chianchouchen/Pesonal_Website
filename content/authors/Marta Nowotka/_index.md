@@ -6,19 +6,19 @@ title: Marta NOWOTKA
 superuser: false
 
 # Role/position/tagline
-role: Undergrad student
+role: Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Physics, Colorado College
+- name: Colorado College -> Standford
   url: https://www.coloradocollege.edu/academics/dept/physics/
 
 # Interests to show in About widget
-interests:
-- Dusty galaxies around ELAN
+# interests:
+# - Dusty galaxies around ELAN
 
 # User group
-user_groups: ["Students"]
+user_groups: ["Alumni"]
 
 # Projects
 projects:
