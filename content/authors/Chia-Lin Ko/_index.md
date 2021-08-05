@@ -10,7 +10,7 @@ role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ASIAA -> University of Arizona
+- name: ASIAA [2020-2021] -> University of Arizona [2021-]
   url: https://www.asiaa.sinica.edu.tw/index.php
 
 # Interests to show in About widget
