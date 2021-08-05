@@ -6,7 +6,7 @@ title: Marta NOWOTKA
 superuser: false
 
 # Role/position/tagline
-role: Alumni
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
