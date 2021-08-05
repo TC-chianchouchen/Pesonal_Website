@@ -6,7 +6,7 @@ title: KO Chia-Lin
 superuser: false
 
 # Role/position/tagline
-role: Alumni
+role: Grad Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
