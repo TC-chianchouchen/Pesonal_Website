@@ -10,7 +10,7 @@ role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Colorado College -> Standford
+- name: Colorado College [2018-2021]-> Standford [2021-]
   url: https://www.coloradocollege.edu/academics/dept/physics/
 
 # Interests to show in About widget
