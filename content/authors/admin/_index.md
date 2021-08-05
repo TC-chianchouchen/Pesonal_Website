@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chian-Chou Chen (T.C.)
+title: CHEN Chian-Chou (T.C.)
 
 # Is this the primary user of the site?
 superuser: true
