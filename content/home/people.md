@@ -20,6 +20,7 @@ content:
     - Group Leader
     - Researchers
     - Students
+    - Alumni
     
 design:
   # Show user's social networking links? (true/false)
