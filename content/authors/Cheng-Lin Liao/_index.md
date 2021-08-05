@@ -6,7 +6,7 @@ title: LIAO Cheng-Lin
 superuser: false
 
 # Role/position/tagline
-role: Undergrad student
+role: Master student
 
 # Organizations/Affiliations to show in About widget
 organizations:
