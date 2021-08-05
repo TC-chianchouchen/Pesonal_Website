@@ -10,7 +10,7 @@ role: Master student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Physics, National Central University
+- name: Graduate Institute of Astrophysics, National Taiwan University
   url: https://www.astro.ncu.edu.tw/index_e.php
 
 # Interests to show in About widget
