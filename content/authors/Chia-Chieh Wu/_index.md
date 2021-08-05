@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chia-Chieh Wu
+title: WU Chia-Chieh
 
 # Is this the primary user of the site?
 superuser: false
