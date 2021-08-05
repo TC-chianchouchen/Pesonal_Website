@@ -6,16 +6,16 @@ title: KO Chia-Lin
 superuser: false
 
 # Role/position/tagline
-role: Research Assistant
+role: Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Academia Sinica Institute of Astronomy and Astrophysics
+- name: ASIAA -> University of Arizona
   url: https://www.asiaa.sinica.edu.tw/index.php
 
 # Interests to show in About widget
-interests:
-- Infrared-radio correlation (IRRC)
+# interests:
+# - Infrared-radio correlation (IRRC)
 
 # User group
 user_groups: ["Researchers"]
