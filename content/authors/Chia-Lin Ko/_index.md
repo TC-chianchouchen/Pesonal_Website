@@ -18,5 +18,5 @@ organizations:
 # - Infrared-radio correlation (IRRC)
 
 # User group
-user_groups: ["Researchers"]
+user_groups: ["Alumni"]
 ---
