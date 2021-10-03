@@ -11,7 +11,7 @@ role: Master student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Graduate Institute of Astrophysics, National Taiwan University
-  url: https://www.astro.ncu.edu.tw/index_e.php
+  url: https://www.phys.ntu.edu.tw/astro/engastro/Introduction.html
 
 # Interests to show in About widget
 interests:
