@@ -1,6 +1,6 @@
 ---
 # Display name
-title: KO Chia-Lin 
+title: KO Chia-Lin | 柯嘉琳
 
 # Is this the primary user of the site?
 superuser: false
