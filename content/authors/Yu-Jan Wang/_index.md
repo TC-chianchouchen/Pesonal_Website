@@ -1,6 +1,6 @@
 ---
 # Display name
-title: WANG Yu-Jan
+title: WANG Yu-Jan | 王禹然
 
 # Is this the primary user of the site?
 superuser: false
