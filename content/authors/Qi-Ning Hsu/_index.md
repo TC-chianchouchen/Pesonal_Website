@@ -1,6 +1,6 @@
 ---
 # Display name
-title: HSU Qi-Ning
+title: HSU Qi-Ning | 許棨甯
 
 # Is this the primary user of the site?
 superuser: false
